@@ -5,6 +5,6 @@ public class E01 {
 
         System.out.println("deneme branch'inde degisiklik yaptik");
 
-
+        System.out.println("main branch e01 8.satirda degisiklik yaptim");
     }
 }
